@@ -1,3 +1,6 @@
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+
+
 # 💫 About Me:
 Hi There, I am Chetan Chauhan a computer science student at Haldia Institute of Technology <br>I'm currently working on training Deep Learning models for Image Translation tasks<br>I would like to collaborate with likeminded people on Github and LinkedIn<br>I am looking out for professional opportunities to start my career in the field of Software Engineering<br>
 
